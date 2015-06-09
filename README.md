@@ -1,2 +1,2 @@
 # finger-exercises
-simple algorithms realised
+simple algorithms realised.
