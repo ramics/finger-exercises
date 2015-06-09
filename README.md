@@ -1,2 +1,2 @@
 # finger-exercises
-simple algorithms realised in python
+simple algorithms realised
